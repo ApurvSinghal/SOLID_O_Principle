@@ -1,2 +1,2 @@
-# O_SOLID_Principle
+# SOLID_O_Principle
  OpenClosedPrincipleDemo
